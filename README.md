@@ -17,6 +17,8 @@ La base de datos contempla:
 - consultas.sql → consultas solicitadas
 
 -- Diagrama
+## Diagrama Entidad-Relación
+![Diagrama ER](diagrama.png)
 
 
 -- Tecnologias:
