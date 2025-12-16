@@ -9,6 +9,5 @@ Implementar lógica de negocio en la base de datos
 Contar con proyectos documentados para el perfil académico y laboral
 
 ## Tecnologías utilizadas
-MySQL
-SQL estándar
+MySQL y SQL estándar
 
